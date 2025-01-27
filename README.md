@@ -9,3 +9,7 @@
 ### Website
 
 Visit the [PrimeNG Website](https://www.primefaces.org/primeng/) for general information, demos and documentation.
+
+ # Important note
+
+ This is a copy of the PrimeNG v13.4.1 source code. It is here to access the documentation easily. I do not own the source code, you can fint it [here](https://github.com/primefaces/primeng/tree/13.4.1)
